@@ -1,0 +1,377 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A subsidie granted to the king, of tonnage, poundage, and other summess of money, payable upon marchandize, exported, and imported According to a book of rates, agreed upon by the honorable House of Commons, and hereunto annexed.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38130</idno>
+            <idno type="STC">Wing E2311</idno>
+            <idno type="STC">ESTC R215021</idno>
+            <idno type="EEBO-CITATION">99827022</idno>
+            <idno type="PROQUEST">99827022</idno>
+            <idno type="VID">31434</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38130)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31434)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1883:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A subsidie granted to the king, of tonnage, poundage, and other summess of money, payable upon marchandize, exported, and imported According to a book of rates, agreed upon by the honorable House of Commons, and hereunto annexed.</title>
+                  <author>England and Wales. Parliament.</author>
+                  <author>England and Wales. Parliament. aut</author>
+               </titleStmt>
+               <extent>[2], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Laurence Blaiklocke, and are to be sold at his shop next Temple Bar in Fleet-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>M DC. XLII. [1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Lincoln's Inn Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tariff --  Great Britain --  Early works to 1800.</term>
+               <term>Exports --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:31434:1" rendition="simple:additions"/> A SVBSIDIE Granted to the KING, OF Tonnage,
+Poundage, and other Summes of Money, pay<g ref="char:EOLhyphen"/>able upon Marchandize, exported, and
+imported.</p>
+            <p>According to a Book of <hi>Rates,</hi> agreed upon by the
+Honorable Houſe of COMMONS, and hereunto annexed.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>LONDON, Printed for <hi>Laurence Blaiklocke,</hi> and are to be
+ſold at his ſhop next Temple Bar in Fleet-ſtreet.</p>
+            <p>M. DC. XLII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:31434:2"/>
+            <pb n="1" facs="tcp:31434:2"/>
+            <head>A SVBSIDIE Granted to the KING, OF Tonnage, Poundage, and other
+Sommes of Money, payable upon Mar<g ref="char:EOLhyphen"/>chandize, exported, and imported.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N moſt humble wiſe ſhew unto your moſt ex<g ref="char:EOLhyphen"/>cellent
+Majeſtie, Your Loyall and Obedient Subiects, the Com<g ref="char:EOLhyphen"/>mons in this Your
+pre<g ref="char:EOLhyphen"/>ſent <hi>Parliament</hi> Aſſem<g ref="char:EOLhyphen"/>bled: That in and by ſeuerall Acts
+formerly made this preſent <hi>Parli<g ref="char:EOLhyphen"/>ament,</hi> for the granting to Your
+Maieſtie of the Subſidies of Tonnage, Poundage, and other Summes of money
+payable upon marchan<g ref="char:EOLhyphen"/>dize exported, and imported, It is Declared and Enacted,
+That it is and hath beene the ancient right of the Subects of this Realme,
+<pb n="2" facs="tcp:31434:3"/> That no Subſidy, Cuſtome, Impoſt or other Charges
+whatſoeuer ought or may bee layed or impoſed vpon any merchandize exported
+or imported by Subiects Denizens or Aliens without common conſent in
+<hi>Parliament.</hi> By which ſaid ſeverall Acts, it is likewiſe
+De<g ref="char:EOLhyphen"/>clared, That the Summes of money thereby granted upon marchandize, are not
+the rates intended to be continued, but the ſame to be hereafter in this
+preſent Parliament altered in ſuch manner as ſhall be thought fit. The
+ſaid Commons, upon due conſideration had of the preſent ſtate and
+condition of the trade of this Your Realme, and of the nature, quality &amp;
+ſeuerall uſes of the goods &amp; merchandize expor<g ref="char:EOLhyphen"/>ted and imported, haue
+now accordingly agreed upon, and eſtabliſhed ſuch Rates, Valewes and
+Payments upon goods &amp; marchandizes to be exported and imported, as are
+expreſſed in a Book of Rates intitled, <hi>The Rates of Mar<g ref="char:EOLhyphen"/>chandize, That
+is to ſay, the Subſidy of Tonnage, the Subſidy of Poundage, and the
+Subſidy of Woollen Cloaths or old Draperies, as they are rated and agreed on
+by the Commons Houſe of Parliament, ſet down and expreſſed in this
+Book, to be paid according to the Tenor of the Act of Tonnage and Poundage,
+from the firſt day of Iu<g ref="char:EOLhyphen"/>ly, Anno Domini</hi> 1642. <hi>During the
+continuance of the ſaid Act, and ordered to be printed.</hi> And foraſmuch
+as we do repoſe truſt and confi<g ref="char:EOLhyphen"/>dence <pb n="3" facs="tcp:31434:3"/> in your Maieſty
+in and for the guard<g ref="char:EOLhyphen"/>ing and defending of the Seas, againſt all perſons
+intending or that ſhall intend the di<g ref="char:EOLhyphen"/>ſturbance of Your ſaid Commons in
+the enter<g ref="char:EOLhyphen"/>courſe of trade and the inuading of this Your Realme: And for the
+better defraying the ne<g ref="char:EOLhyphen"/>ceſſary expences thereof, which cannot other<g ref="char:EOLhyphen"/>wiſe
+be effected without great charge to Your Maieſty; We Your ſaid Commons, by
+the aduiſe and conſent of the Lords in this Your preſent Parliament
+aſſembled, and by the Au<g ref="char:EOLhyphen"/>thority of the ſame to the intent aforeſaid,
+do giue and grant to You our Supreame Liege Lord and Soueraigne, One Subſidy
+called <hi>Tonnage</hi> (that is to ſay) of euery Ton of Wine of the growth
+of <hi>France</hi> or of any the Domini<g ref="char:EOLhyphen"/>ons of the <hi>French</hi> King, or
+Crown of <hi>France</hi> that ſhall come into the Port of <hi>London</hi> and
+the members thereof by way of marchandize, by Your naturall borne Subiects, the
+ſumme of foure pounds and ten ſhillings of currant Engliſh money, and
+ſo after that rate and by Strangers and Alliens, ſix pounds of like money:
+And of euery Tunne of the like Wine which ſhall be brought into all and euery
+the other ports and places of this Kingdome and Dominions thereof, by way of
+marchandize by Your naturall borne Subiects, the ſumme of three pounds, and
+by Aliens foure pounds ten ſhillings: And of euery But, or Pipe of
+<pb n="4" facs="tcp:31434:4"/> Muſcadels, Malmeſeys, Cutes, Tents, Alli<g ref="char:EOLhyphen"/>cants,
+Baſtards, Sacks, Canaries, Malla<g ref="char:EOLhyphen"/>goes, Maderoes and other Wines
+whatſoe<g ref="char:EOLhyphen"/>uer, commonly called Sweet wines, of the growth of the <hi>Levant,
+Spaine, Portugall</hi> or of any the Iſlands or Dominions to them or any of
+them belonging or elſewhere, that ſhall come or be brought into the Port of
+<hi>London</hi> by Your naturall borne Subiects, the ſumme of forty fiue
+ſhillings of eurrant Engliſh money, and ſo after that rate: and by
+Strangers and Aliens three pounds of like money: And of euery But and Pipe of
+the like wine, which ſhall bee brought into all and euery the other Ports and
+Places of this Kingdome and Dominions thereof by way of marchandize, by Your
+natu<g ref="char:EOLhyphen"/>rall borne Subiects the ſumme of thirty ſhil<g ref="char:EOLhyphen"/>lings, and by Strangers
+forty fiue ſhillings, and of euery Awme of Rheniſh or wine of the growth of
+<hi>Germany,</hi> that ſhall be brought into this Your Realme and Dominions
+thereof by Your naturall borne Subiects, the ſumme of twenty ſhillings of
+currant Engliſh money: And by ſtrangers and Aliens twenty and fiue
+ſhillings: Which ſeuerall Rates are the ſame which are expreſſed in
+the ſaid <hi>Book of Rates.</hi>
+            </p>
+            <p>And alſo one other Subſidy called Poun<g ref="char:EOLhyphen"/>dage (that is to ſay)
+of all manner of goods and marchandize of euery Marchant naturall borne
+Subiect, Denizen and Alien, to be car<g ref="char:EOLhyphen"/>ried <pb n="5" facs="tcp:31434:4"/> out of this
+Realme, or any Your Maie<g ref="char:EOLhyphen"/>ſties Dominions to the ſame belonging, or to be
+brought into the ſame by way of marchan<g ref="char:EOLhyphen"/>dize of the valew of euery twenty
+ſhillings of the ſame goods and marchandize accord<g ref="char:EOLhyphen"/>ing to the ſeuerall
+and particular rates and vallews of the ſame goods and marchandize as the
+ſame are particularly and reſpectiuely rated and vallewed in the afore
+mentioned Book, twelue pence, and ſo after that rate: And of euery twenty
+ſhillings vallew of any the natiue Commodities of this Realme or Manufactures
+wrought of any ſuch natiue Commodities to be carried out of this Realme, by
+euery or any Marchant Alien, according to the vallew thereof, in the ſaid
+Booke expreſſed, twelue pence ouer and aboue the twelue pence aforeſaid
+(except and foreprized out of this Grant of Subſidy of <hi>Poundage,</hi> all
+manner of Woollen Cloths made or wrought, or to bee made or wrought within this
+Realme of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> commonly called Old Draperies: And all Wines
+before limitted to pay Subſidy
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Tonnage: And all manner of
+fiſh Engliſh taken and brought by Engliſh bottomes into this Realme: And
+all manner of freſh fiſh and beſtiall that ſhall come into the ſame
+Your Realme.</p>
+            <p>And further, we Your ſaid Commons by the aduice, aſſent and
+authority aforeſaid, Do <pb n="6" facs="tcp:31434:5"/> giue and grant unto You our ſaid
+Leige Lord and Soueraigne, for the cauſes aforeſaid, one other Subſidy
+(that is to ſay) of and for every ſhort Woollen Cloth to bee exported by
+Your naturall borne Subiects of this Your Realme and the Dominions thereof
+called broad Cloth, not exceeding twenty eight yards in length, and
+threeſcore and foure pounds in weight, the ſumme of ſix ſhillings and
+eight pence of currant Engliſh money, and of euery Cloth of greater length
+and weight proportio<g ref="char:EOLhyphen"/>nably, according to the ſame rate, and of e<g ref="char:EOLhyphen"/>uery other
+ſhort Cloth of Old Drapery of leſ<g ref="char:EOLhyphen"/>ſer length and weight, accompting ſo
+many peeces to a ſhort Cloth, as are limitted and appointed therunto in the
+<hi>Book of Rates</hi> afore<g ref="char:EOLhyphen"/>ſaid, to be likewiſe exported by Your naturall
+borne Subiects, the like ſumme of ſix ſhillings eight pence, and ſo
+after that Rate: And by Strangers and Aliens thirteen ſhillings foure pence
+for euery ſhort Cloth accompted as a<g ref="char:EOLhyphen"/>foreſaid; which ſeuerall Rates are
+accordingly expreſſed in the ſaid <hi>Booke of Rates,</hi> to Haue, Take,
+enioy and perceiue the Subſidies afore<g ref="char:EOLhyphen"/>ſaid, and euery of them, and euery
+part and parcell of them, to Your Highneſſe, from the firſt day of
+<hi>Iuly, 1642.</hi> vnto the firſt day of <hi>March</hi> next comming.</p>
+            <p>And that it may be further enacted by the authority aforeſaid,
+That if any Wines, Goods <pb n="7" facs="tcp:31434:5"/> or other Marchandize whereof any
+the Sub<g ref="char:EOLhyphen"/>ſidies aforeſaid are, or ſhall be due, ſhall at any time
+hereafter be ſhipped, or put into any boat or other veſſell, to the
+intent to be carried into the parts beyond the Seas, or elſe be brought from
+the parts beyond the Seas, into any Port, Place or Creek of this Realme, or
+other Your Maieſties Dominions by way of Mar<g ref="char:EOLhyphen"/>chandize, and unſhipped to be
+laid on land, the Subſidy, Cuſtomes, and other Duties due or to be due for
+the ſame not payed, or lawfully tendred to the Collector thereof or his
+Deputy, (with the conſent and agreement of the Comp<g ref="char:EOLhyphen"/>troller and Surveyor
+there, or one of them at the leaſt) not agreed with for the ſame in the
+Cuſtome-houſe, according to the true meaning of this Act: That then from
+the ſaid firſt day of <hi>Iuly,</hi> all the ſame Wine; Goods and
+Mar<g ref="char:EOLhyphen"/>chandize whatſoeuer ſhall be forfeit to Your Highneſſe, and
+afterwards to Your Heires and Succeſſors, during the ſaid time; The
+moyety of the rate thereof to Your Highneſſe, and the other moyety to him
+or them that will ſeize the ſame or ſue for the ſame. And that it may
+pleaſe Your Highneſſe, That all Marchants aſwell Denizens as Strangers
+comming into this Your Realme bee well and honeſtly intreated and demeaned
+for ſuch things as Subſidy by this Act is granted for as they were in the
+time of Your Noble Progenitors and Prede<g ref="char:EOLhyphen"/>ceſſors, <pb n="8" facs="tcp:31434:6"/>
+without oppreſſion to them to be doune, paying the Subſidies
+aforeſaid.</p>
+            <p>And bee it further enacted by the au<g ref="char:EOLhyphen"/>thority aforeſaid, that if
+any goods or Mer<g ref="char:EOLhyphen"/>chandize as aforeſaid of any Merchant being borne Denizen
+after the ſaid Firſt day of <hi>Iuly,</hi> during the Terme of this grant
+hath been or ſhall be taken by any enemies or Pyrats upon the Sea or
+periſhed in any ſhip or ſhips that ſhall happen to be taken or
+periſhed within the time of the ſaid grant, whereof the Subſidies and
+other duties aforeſaid, are or ſhall bee duely paid or agreed for as a
+foreſaid and that duely proued before the Treaſurer of England, or chief
+Baron of the Exchequer for the time being, by the examination of the ſame
+Marchants if they be aliue, or of their Executors or Admini<g ref="char:EOLhyphen"/>ſtrators if they
+bee dead, or by two credible witneſſes at the leaſt ſworne or other
+reaſona<g ref="char:EOLhyphen"/>ble witneſſes and proofe ſworne. Then the ſame Marchant or
+Marchants, his or their Executors, or Adminiſtrators ſhall or may newly
+ſhip in the ſame Port where the goods and Merchandize aforeſaid were or
+ſhall bee cuſtomed, ſo much other merchandize or goods as the ſame
+goods or Merchandize that are or ſhall bee loſt as aforeſaid ſhall
+amount unto in Cuſtome without paying any thing for the ſame, ſo as the
+ſame proofe be recorded &amp; al<g ref="char:EOLhyphen"/>lowed of in the Court of Exchequer, &amp;
+certified <pb n="9" facs="tcp:31434:6"/> unto the Collectors of the Cuſtomes of the Port
+where the ſame wares and Marchan<g ref="char:EOLhyphen"/>dize are to bee newly Shipped without
+Cu<g ref="char:EOLhyphen"/>ſtome as aforeſaid: And further, That euery Marchant Denizen that
+ſhall heareafter Shippe any Goods and Marchandize in any Charrack or Gally,
+ſhall pay to your Maie<g ref="char:EOLhyphen"/>ſty all manner of Cuſtomes, and all the
+Sub<g ref="char:EOLhyphen"/>ſidies aforeſaid, as any Alien borne out of the Realme.</p>
+            <p>Prouided always, That it ſhall and may be lawfull to all and
+euery of the Subiects of our Soueraigne Lord the King, at His and their will
+and pleaſure to carry and tranſport out of this Realme, in the Ships or
+other Veſſels of any the Subiecs aforeſaid, all and euery kind of
+Heerings or other Sea-fiſh, to be taken vpon the Seas by any of the Subiects
+aforeſaid, from or out of any Port, or Harbour of this Realme, to any place
+out of the Kings Dominions, without paying any Cuſtome, Subſidy or Poundage
+money for the ſame He<g ref="char:EOLhyphen"/>rings &amp; Fiſh ſo carried or tranſported,
+during this preſent Grant of Subſidy of Tonnage and Poundage, any thing
+before conteined to the contrary notwithſtanding.</p>
+            <p>And it is further Enacted, That any Cuſto<g ref="char:EOLhyphen"/>mer or Comptroller or
+any other Officer or per<g ref="char:EOLhyphen"/>ſon, That after the Determination of this Grant,
+ſhall take or receiue or cauſe to be taken or receiued the ſaid
+Subſidy, Sums of money, or any other Impoſition, Summe or Sums
+<pb n="11" facs="tcp:31434:7"/> of money vpon any Marchandize whatſoeuer, exported or
+imported, except the ſame by Grant in <hi>Parliament,</hi> be due or by
+ſuch Grant ſhall be<g ref="char:EOLhyphen"/>come due or haue been continually payed from the end of
+the reigne of the late King <hi>Edward</hi> the third, vntill the beginning of
+the Reigne of the late Queen <hi>Mary;</hi> ſhall incur and ſuſtein the
+paines, penalties and forfeitures ordained and prouided by the Statutes of
+Prouiſion &amp; Premunire, made in the ſixteenth year of King
+<hi>Richard</hi> the ſecond: And ſhall alſo from hence<g ref="char:EOLhyphen"/>forth be
+diſabled during his life, to ſue or im<g ref="char:EOLhyphen"/>plead any perſon in any action
+reall, mixt or perſonall, or in any Court whatſoeuer.</p>
+            <p>And that His Maieſties Cuſtomers, Comp<g ref="char:EOLhyphen"/>trollers and other
+Officers, from the greatnes of the ſaid Penalties in this preſent Act, and
+in the ſaid former Acts in this preſent <hi>Parliament,</hi> inflicted
+&amp; ſet vpon them, may not out of feare thereof be diſcouraged from
+demanding and taking the iuſt and lawfull Cuſtomes, Duties, and Sums of
+money due unto His Maieſly, vpon Trade and Marchandize without this preſent
+Grant, or any the before mentioned Acts heretofore made in this preſent
+<hi>Parlia<g ref="char:EOLhyphen"/>ment.</hi> It is therefore hereby Declared, That the ancient
+Cuſtomes due vpon Wools, Wooll-fels, and Leather, that is to ſay of
+Denizens, halfe a marke of a ſack of Wooll, halfe a marke of three hundred
+Wooll-fels, a marke of a laſt of Leather: and of Aliens ten ſhillings of a
+ſack of Wooll, ten ſhillings of three hundred Wooll-fels, &amp; twenty
+ſhillings of a laſt of Lea<g ref="char:EOLhyphen"/>ther <pb n="10" facs="tcp:31434:7"/> Priſage, That is to
+ſay, of euery veſſell wherein ſhall be imported twenty tons of wine or
+more: One ton before the maſt and one other ton behind the maſt; And if
+there be leſſe then twenty tons and ten tons or aboue in the veſ<g ref="char:EOLhyphen"/>ſell
+only one ton, paying the ſraight butlerage<g ref="char:punc">▪</g> that is to ſay, two
+ſhillings upon euery ton of wine imported by ſtrangers. Three pence vpon
+the pound of all Goods or Marchandize imported by Strangers, and other duties
+due by <hi>Carta Mercatoria,</hi> made the 31 of <hi>Edward</hi> the firſt,
+and confirmed by <hi>Parliament,</hi> in the 27 of <hi>Edw.</hi> the third:
+three pence upon euery Sow of Lead, twelue pence vpon euery Chalder of
+ſea-coale exported from <hi>New caſtle</hi> vpon <hi>Tyme,</hi> to any
+other Ports or parts of this Realme. The Cuſtomes and Summes of Money to be
+paid vpon exportation of Wheat &amp; other corne and graine, by the Statutes
+made in the 13 and 35 years of Queen Eliſ. and the 3 yeare of His now
+Maieſties reigne, and vpon exportation of Beere, by the Statutes made in the
+3 yeare of King <hi>Iames,</hi> and in the 3 yeare of His now Ma<g ref="char:EOLhyphen"/>ieſties
+reigne, &amp; vpon exportation of any Lea<g ref="char:EOLhyphen"/>ther, Tallow or raw Hydes, according
+to the Statute made in the <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>8
+yeare of Queen <hi>Eliſ.</hi> and all other Cuſtomes Duties, &amp; Payments
+vpon Goods &amp; Marchandizes exported or im<g ref="char:EOLhyphen"/>ported into or out of the Kingdom
+and the Do<g ref="char:EOLhyphen"/>minion of <hi>Wales</hi> now due by grant in any for<g ref="char:EOLhyphen"/>mer
+<hi>Parliament,</hi> or due or payable to the Crown without any Impoſition
+thereof, ſet by the Kings Maieſty that now is, or any of His
+pre<g ref="char:EOLhyphen"/>deceſſors <pb n="12" facs="tcp:31434:8"/> Kings or Queens of this Realm, are the
+rights of the Crown of <hi>England.</hi>
+            </p>
+            <p>And be it further Enacted, That from and after the laſt day of
+<hi>Auguſt Anno Domini</hi> 1642. No Corrants ſhall be imported into His
+Ma<g ref="char:EOLhyphen"/>ieſties Kingdome of <hi>England</hi> or the Dominion of <hi>Wales,</hi> by
+any Marchants, Strangers, De<g ref="char:EOLhyphen"/>nizens or others, by way of Marchandize from any
+parts beyond the Seas: But the impor<g ref="char:EOLhyphen"/>ting thereof from and after the ſaid
+laſt day of <hi>Auguſt</hi> is hereby prohibited and forbidden. And all
+Corrants that ſhall be imported, contrary to the intent aforeſaid ſhall
+be forfeited. The one moyetie to the King, His Heires and Suc<g ref="char:EOLhyphen"/>ceſſors, The
+other moyetie to the Imformer.</p>
+            <p>And be it further Enacted by the authority aforeſaid, That the
+ſaid <hi>Book of Rates</hi> compo<g ref="char:EOLhyphen"/>ſed and agreed on by your Maieſties
+ſaid Commons: And alſo euery Article and Clau<g ref="char:EOLhyphen"/>ſe therein conteyned
+ſhall be and remaine du<g ref="char:EOLhyphen"/>ring the time of this preſent Act &amp; no longer,
+as effectuall to all intents and purpoſes as if the ſame were included
+particularly in the body of this preſent Act.</p>
+            <p>And it is further Enacted, That during the continuance of this
+Grant, the Cuſtomers, Collectors and all other His Maieſties Offi<g ref="char:EOLhyphen"/>cers in
+the ſeuerall Ports, ſhall take and re<g ref="char:EOLhyphen"/>ceiue ſuch fees in manner and no
+other as were taken in the 4 year of the reign of the late King <hi>Iames,</hi>
+vntill ſuch time as the ſaid Fees ſhall be otherwiſe ſetled by
+authority in <hi>Parliament.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
